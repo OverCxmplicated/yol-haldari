@@ -8,7 +8,7 @@ aliases:
   - cold
   - chilly
 ---
-#Adjective 
-# tathaa
+#Adjective #composite 
+# Tathaa
 
 #YolHaldari 
