@@ -9,6 +9,7 @@ aliases:
   - talk
   - voice
   - chat
+  - tongues
 ---
 #noun #Verb
 # Yo
