@@ -8,7 +8,6 @@ aliases:
   - inferior to
   - inferior
 ---
-#noun
 # Seu
 
 #YolHaldari
