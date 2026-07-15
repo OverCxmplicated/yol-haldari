@@ -7,7 +7,6 @@ etymology:
 aliases:
   - bother
   - pester
-  - sycophant
 ---
 #noun #SocialContract
 # Aawaa
