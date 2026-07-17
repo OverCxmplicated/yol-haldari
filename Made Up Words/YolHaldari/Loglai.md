@@ -4,7 +4,11 @@ language: Yol'Haldari
 partOfSpeech: insult
 ipa:
 etymology:
+  - "[[Log]]"
+  - "[[Lai]]"
 aliases:
+  - empty soul
+  - vapid
 ---
 #insult #composite 
 # Loglai

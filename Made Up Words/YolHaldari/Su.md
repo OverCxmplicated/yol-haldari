@@ -6,6 +6,7 @@ ipa:
 etymology:
 aliases:
   - him
+  - he
 ---
 #noun #Pronouns
 # Su

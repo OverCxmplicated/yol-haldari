@@ -4,6 +4,8 @@ language: Yol'Haldari
 partOfSpeech: insult
 ipa:
 etymology:
+  - "[[Va]]"
+  - "[[Mai]]"
 aliases:
 ---
 #insult #composite 

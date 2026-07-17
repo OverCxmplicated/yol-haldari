@@ -6,6 +6,7 @@ ipa:
 etymology:
 aliases:
   - her
+  - she
 ---
 #noun #Pronouns
 # Si

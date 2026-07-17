@@ -6,6 +6,7 @@ ipa:
 etymology:
 aliases:
   - (plural suffix)
+  - multiple
 ---
 #noun #Suffix
 # -l
