@@ -6,7 +6,11 @@ ipa:
 etymology:
   - "[[Va]]"
   - "[[Mai]]"
+  - "[[-ar]]"
 aliases:
+  - Boring
+  - mundane
+  - unenchanting
 ---
 #insult #composite 
 # Vamaiar

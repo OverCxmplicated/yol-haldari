@@ -7,6 +7,7 @@ etymology:
   - "[[Saa]]"
   - "[[-l]]"
   - "[[Tur]]"
+  - "[[-in]]"
 aliases:
   - alchemy
 ---

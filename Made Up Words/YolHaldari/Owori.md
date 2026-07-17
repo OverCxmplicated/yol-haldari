@@ -5,6 +5,7 @@ partOfSpeech: insult
 ipa:
 etymology:
   - "[[Owo]]"
+  - "[[-ri]]"
 aliases:
   - disappointment
   - disappointment of a being
