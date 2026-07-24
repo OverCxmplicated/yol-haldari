@@ -8,6 +8,7 @@ aliases:
   - lower
   - lesser
   - low
+  - down
 ---
 #noun #Navigation
 # Tao

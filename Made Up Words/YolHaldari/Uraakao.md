@@ -7,9 +7,7 @@ etymology:
   - "[[Uraa]]"
   - "[[Kao]]"
 aliases:
-  - ocean body
-  - body like the ocean
-  - vast body
+  - spineless
 ---
 #insult #composite 
 # Uraakao

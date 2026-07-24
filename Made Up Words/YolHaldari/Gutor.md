@@ -13,3 +13,5 @@ aliases:
 # Gutor
 
 #YolHaldari
+
+To Love - romantic context

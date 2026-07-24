@@ -8,6 +8,7 @@ aliases:
   - higher
   - greater
   - high
+  - up
 ---
 #noun #Navigation
 # Hai
